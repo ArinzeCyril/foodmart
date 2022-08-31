@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.soon-container {
+    text-align: center;
+    padding: 13em 0;
+    background-color: white;
+    height: 50vh;
+    color: brown;
+}
