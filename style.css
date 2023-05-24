@@ -119,7 +119,7 @@ a {
         width: 2rem;
         z-index: 9999;
         aspect-ratio: 1;
-        top: 2rem;
+        top: 1.6rem;
         right: 2rem;
     }
 
@@ -292,6 +292,11 @@ a {
 
 .item-flex-set h2 {
     margin: 0;
+}
+
+.item-flex-set p {
+    text-align: justify;
+    font-size: 1em;
 }
 
 @media (max-width: 650px) {
